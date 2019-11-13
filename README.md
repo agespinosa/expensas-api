@@ -4,7 +4,9 @@
 **appuser@ab4a26424558:/appdata/www$ composer require monolog**
 **appuser@ab4a26424558:/appdata/www$ composer require doctrine**
 
-####Para autenticacion
+####Autenticacion
 **https://github.com/lexik/LexikJWTAuthenticationBundle** 
+####Login 
+**https://packagist.org/packages/ramsey/uuid-doctrine**
 
 

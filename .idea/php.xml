@@ -68,6 +68,8 @@
       <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
       <path value="$PROJECT_DIR$/vendor/symfony/security-http" />
       <path value="$PROJECT_DIR$/vendor/lexik/jwt-authentication-bundle" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid-doctrine" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
     </include_path>
   </component>
   <component name="PhpInterpreters">
